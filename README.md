@@ -1,11 +1,12 @@
+# NAME: DEEPIKA G
+# REG.NO: 212224040060
+
 # EX 9 : IMAGE EDITING
+# AIM:
 
-## AIM:
+To edit an image using an image editing software.
 
- To edit an image using an image editing software.
-
-## EDITING
-
+# EDITING:
 
 ⮚	Open your project file and create a duplicate.
 
@@ -13,9 +14,7 @@
 
 ⮚	Change the image size using canvas technique.
 
-
-## BACK GROUND CHANGING
-
+# BACK GROUND CHANGING:
 
 ⮚	Select the area to change the back ground using magic wand tool.
 
@@ -25,9 +24,7 @@
 
 ⮚	Using selection tool, move the back ground.
 
-
-## CHANGING COLOUR
-
+# CHANGING COLOUR:
 
 ⮚	Select the area using Lasso tool .
 
@@ -35,11 +32,7 @@
 
 ⮚	Change the colour using RGB mode.
 
-
-
-
-
-## CHANGING THE SIZE
+# CHANGING THE SIZE:
 
 
 ⮚	Select your image and go to edit and select transform.
@@ -48,8 +41,9 @@
 
 ⮚	Press enter to set the size.
 
-
-
-## OUTPUT:
+# OUTPUT:
 
 ![Untitled    DEEPIKA POSTER OWN - Made with PosterMyWall](https://github.com/user-attachments/assets/48b7f783-74c4-4277-8e37-f252f83c820c)
+
+# RESULT:
+To edit an image using an image editing software is created successfully
